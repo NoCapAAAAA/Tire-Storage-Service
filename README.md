@@ -5,7 +5,9 @@ Graduate work. The purpose of which is to create software for automating the bus
 
 ### Структура проекта
 maindir/
+
 ├── .gitignore
+
 ├── README.md
 └── src
     ├── config
