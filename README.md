@@ -4,12 +4,19 @@ Graduate work. The purpose of which is to create software for automating the bus
 =======
 
 Project structure.
-MainDir
-├── abstract_base
-│   └── init.py
+maindir/
+├── .git
+│   ├── ...
+├── .gitignore
+├── poetry.lock
 ├── pyproject.toml
-├── README.rst
-└── tests
-├── init.py
-└── test_maindir.py
->>>>>>> ee42df5 (Initial commit)
+├── README.md
+└── src
+    ├── config
+    │   ├── asgi.py
+    │   ├── init.py
+    │   ├── settings.py
+    │   ├── urls.py
+    │   └── wsgi.py
+    ├── init.py
+    └── manage.py
