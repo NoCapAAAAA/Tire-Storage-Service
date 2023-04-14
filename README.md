@@ -9,7 +9,7 @@ maindir/
 ├── .gitignore  
 ├── README.md  
 └── src  
-    ├── config  
+>>> ├── config  
     │   ├── asgi.py  
     │   ├── init.py  
     │   ├── settings.py  
