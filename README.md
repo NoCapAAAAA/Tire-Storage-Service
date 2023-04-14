@@ -3,13 +3,9 @@ Graduate work. The purpose of which is to create software for automating the bus
 <<<<<<< HEAD
 =======
 
-Project structure.
+### Структура проекта
 maindir/
-├── .git
-│   ├── ...
 ├── .gitignore
-├── poetry.lock
-├── pyproject.toml
 ├── README.md
 └── src
     ├── config
