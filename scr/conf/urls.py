@@ -6,6 +6,7 @@ from . import settings
 urlpatterns = [
     path('fff/', admin.site.urls),
     path('', include('client.urls'), name='home'),
+    path('auth/', include('authentication.urls'), name='auth'),
 ]
 
 if settings.DEBUG:

@@ -1,4 +1,4 @@
-{% extends 'clientpart/base.html' %}
+{% extends 'base_client.html' %}
 
 {% block title %} Авторизация {% endblock %}
 
@@ -28,6 +28,6 @@
         </div>
         {{ msg }}
     </form>
-    <p class="text-center">Еще не зарегистрированы? <a href="{% url 'register' %}" class="link link-primary">Зарегистрироваться</a></p>
+    <p class="text-center">Еще не зарегистрированы? <a href="{% url 'sing_up' %}" class="link link-primary">Зарегистрироваться</a></p>
 </main>
 {% endblock %}
