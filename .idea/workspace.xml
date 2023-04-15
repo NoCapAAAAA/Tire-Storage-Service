@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b33dbca1-525c-4795-aeb0-c0951caa2f0f" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/scr/client/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/client/templates/cheque.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/client/templates/client_abstract_main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/client/templates/client_detail_profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/client/templates/client_edit_profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/client/templates/client_order_create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/client/templates/client_order_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/client/templates/client_order_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/client/templates/client_password_reset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Tire-Storage-Service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tire-Storage-Service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/abstract_base/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/abstract_base/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/abstract_base/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/abstract_base/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/authentication/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/authentication/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/client/templates/base_client.html" beforeDir="false" afterPath="$PROJECT_DIR$/scr/client/templates/base_client.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/client/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/client/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/client/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/client/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/conf/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/scr/conf/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="KaretnikovArtem(notProgrammer) &lt;62402252+nocapaaaaa@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OQwcC5YcY8iINlMY9GcrhHwyN7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/Tire-Storage-Service/scr",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\Tire-Storage-Service\scr\client\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\Tire-Storage-Service\scr\client" />
+      <recent name="C:\Users\user\PycharmProjects\Tire-Storage-Service\scr" />
+      <recent name="C:\Users\user\PycharmProjects\Tire-Storage-Service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tire-Storage-Service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scr/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b33dbca1-525c-4795-aeb0-c0951caa2f0f" name="Changes" comment="" />
+      <created>1681506190657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681506190657</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1681507131740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681507131740</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1681507150885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681507150885</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1681507179391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681507179391</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1681507247980</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681507247980</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1681507255178</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681507255178</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1681507322103</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681507322103</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1681507404592</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681507404592</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1681507773512</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681507773512</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit">
+      <created>1681507809921</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681507809921</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit">
+      <created>1681507883639</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681507883639</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial commit">
+      <created>1681507956683</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681507956683</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial commit">
+      <created>1681507981440</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681507981440</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Initial commit">
+      <created>1681508002897</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681508002897</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Initial commit">
+      <created>1681509490116</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681509490116</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Initial commit">
+      <created>1681509502869</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681509502869</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Initial commit">
+      <created>1681513951308</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1681513951308</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Initial commit">
+      <created>1681560038422</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1681560038422</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="ass" />
+    <option name="LAST_COMMIT_MESSAGE" value="ass" />
+  </component>
+</project>

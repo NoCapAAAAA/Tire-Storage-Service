@@ -1,6 +1,7 @@
 from pathlib import Path
 from django.urls import reverse_lazy
-
+import os
+os.chdir(os.path.dirname(__file__))
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'django-insecure-_%fh0tk+eh!e#=8zwasw^qk3x4liau6*t2!099%-b))zo8uxeq'
@@ -24,9 +25,6 @@ INSTALLED_APPS = [
     'organization',
     # install
     'crispy_forms',
-    'rest_framework',
-    'rest_framework.authtoken',
-    'rangefilter',
 ]
 AUTH_USER_MODEL = 'authentication.User'
 MIDDLEWARE = [
